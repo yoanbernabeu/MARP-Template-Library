@@ -8,16 +8,16 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'MARP Template Library',
   tagline: 'Theme CSS Repositories for MARP',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  url: 'https://yoanbernabeu.github.io/',
+  baseUrl: '/MARP-Template-Library/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'yoanbernabeu', // Usually your GitHub org/user name.
+  projectName: 'MARP-Template-Library', // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
@@ -37,7 +37,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/yoanbernabeu/MARP-Template-Library/edit/main/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -63,7 +63,7 @@ const config = {
             label: 'Library',
           },
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/yoanbernabeu/MARP-Template-Library',
             label: 'GitHub',
             position: 'right',
           },
