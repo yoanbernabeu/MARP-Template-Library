@@ -8,8 +8,7 @@ const FeatureList = [
     Svg: require('@site/static/img/css-3.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Search and find the theme that will make your slides awesome!
       </>
     ),
   },
@@ -18,8 +17,7 @@ const FeatureList = [
     Svg: require('@site/static/img/visual-studio-code.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Add the CSS theme in your VS Code configuration (or for the CLI) and play with it!
       </>
     ),
   },
@@ -28,8 +26,7 @@ const FeatureList = [
     Svg: require('@site/static/img/html-5.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Make your exports with style in the format of your choice: html, pdf etc ...
       </>
     ),
   },
